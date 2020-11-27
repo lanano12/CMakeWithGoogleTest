@@ -1,0 +1,10 @@
+
+# Build artefacts
+build
+
+# Any OS files
+.DS_STORE
+
+# IDE artefacts
+.vscode
+*.code-workspace
